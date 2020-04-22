@@ -1,0 +1,2 @@
+# smartninja.sql
+sql
